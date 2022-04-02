@@ -1,4 +1,6 @@
 # GithubHost
+> 请见新项目：https://github.com/xiaozhu2007/GitHosts ，谢谢
+
 ## 前言  
 因为有几个域名被DNS污染了，GitHub老是看不见图，遂有了这个工程。虽然没大用是了。。。
 
